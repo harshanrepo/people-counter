@@ -22,7 +22,7 @@ people-counter
 
 
 ## 🌐 Live Demo
-
+https://harshanrepo.github.io/people-counter/
 
 ## 📖 What I Learned
 - JavaScript variables and functions
